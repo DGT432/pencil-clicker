@@ -30,13 +30,13 @@ var keyPrice = 2.50;
 var caseDiscount = 0;
 var keyDiscount = 0;
 
-var operationCases = {
-  case1: {name: "Weapon Case 1", price: 5.00, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT"},
-  case2: {name: "Operation Phoenix Case", price: 0.06, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUuh6qZJmlD7tiyl4OIlaGhYuLTzjhVupJ12urH89ii3lHlqEdoMDr2I5jVLFFSv_J2Rg"},
-  case3: {name: "Winter Offensive Case", price: 1.32, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYu0aKfJz8a793gxNLfzvOkMunUwWgH7JIjj-qW8d7x2VXt_UBuMT3zIpjVLFEGDSGUSQ"},
-  case4: {name: "Operation Vanguard Case", price: 0.16, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g"},
-  case5: {name: "Chroma Case", price: 0.07, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFEuh_KQJTtEuI63xIXbxqOtauyClTMEsJV1jruS89T3iQKx_BBqa2j3JpjVLFH1xpp0EQ"},
-  case6: {name: "Falchion Case", price: 0.03, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg"}
+var operationCases = 
+  case1: {name: "Gucci Case", price: 5.00, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/OIP__1_-removebg-preview.png?raw=true"},
+  case2: {name: "Clear Case", price: 0.06, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/81vlO7RHaML._AC_UY1100_-removebg-preview.png?raw=true"},
+  case3: {name: "Basic Case", price: 1.32, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/91jqr01wYgL-removebg-preview.png?raw=true"},
+  case4: {name: "Kids Case", price: 0.16, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/81yhMq36AuL._AC_-removebg-preview.png?raw=true"},
+  case5: {name: "Chroma Case", price: 0.07, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/R__1_-removebg-preview.png?raw=true"},
+  case6: {name: "Cheap Case", price: 0.03, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/R-removebg-preview.png?raw=true"}
 }
 
 var knives = {
