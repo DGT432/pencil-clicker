@@ -30,7 +30,7 @@ var keyPrice = 2.50;
 var caseDiscount = 0;
 var keyDiscount = 0;
 
-var operationCases = 
+var operationCases = {
   case1: {name: "Gucci Case", price: 5.00, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/OIP__1_-removebg-preview.png?raw=true"},
   case2: {name: "Clear Case", price: 0.06, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/81vlO7RHaML._AC_UY1100_-removebg-preview.png?raw=true"},
   case3: {name: "Basic Case", price: 1.32, img: "https://github.com/ekfun/pencil-clicker/blob/gh-pages/images/91jqr01wYgL-removebg-preview.png?raw=true"},
