@@ -220,7 +220,7 @@ var cases = {
       weap1: {
         name: "Broken Pencil ",
         price: 0.09,
-        img: "https://ts1.mm.bing.net/th?id=OIP.b7NXZ73ys-wVp6Usb67nwAHaFY&pid=15.1
+        img: "https://ts1.mm.bing.net/th?id=OIP.b7NXZ73ys-wVp6Usb67nwAHaFY&pid=15.1"
       },
       weap2: {
         name: "Negev | Terrain",
