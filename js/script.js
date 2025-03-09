@@ -218,9 +218,9 @@ var cases = {
   case2: {
     milspec: {
       weap1: {
-        name: "UMP-45 | Corporal",
+        name: "Broken Pencil ",
         price: 0.09,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS09-5hpCEhfb4DLbUkmJE5fp9i_vG8MKn3Qbj-UJrZWD6dYOVewQ5YVnR8lDtyO29jJLqvMvMyicxuyRz7HmIgVXp1kQqOE8Q"
+        img: "https://ts1.mm.bing.net/th?id=OIP.b7NXZ73ys-wVp6Usb67nwAHaFY&pid=15.1
       },
       weap2: {
         name: "Negev | Terrain",
